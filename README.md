@@ -3,7 +3,7 @@ A Nodejs application to manage notes from command line.
 
 <br />
 
-**Commands**
+## Commands
 
 <br />
 
